@@ -8,7 +8,7 @@
 -   food & drink
 -   activity
 -   travel & places
--   objecets
+-   objects
 -   symbols
 -   flags
 
