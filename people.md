@@ -16,7 +16,7 @@ A raised hand, showing the reverse side of the palm. May be paired with the forw
 
 *Raised Back of Hand* was approved as part of [Unicode 9.0](https://emojipedia.org/unicode-9.0) in 2016 and added to [Emoji 3.0](https://emojipedia.org/emoji-3.0) in 2016.
 
-## 🖐️ Hand with Fingers Splayed
+### 🖐️ Hand with Fingers Splayed
 
 The palm of a hand with the fingers spread apart. Held in a manner that may indicate the number five. Similar to [👋 Waving Hand](https://emojipedia.org/waving-hand/), but without any motion.
 
@@ -60,7 +60,7 @@ The design is the inverse of [🫴 Palm Up Hand](https://emojipedia.org/palm-up-
 
 *Palm Down Hand* was approved as part of [Unicode 14.0](https://emojipedia.org/unicode-14.0) in 2021 and added to [Emoji 14.0](https://emojipedia.org/emoji-14.0) in 2021.
 
-### Palm Up Hand
+### 🫴 Palm Up Hand
 
 A hand in profile with the palm facing up.
 
