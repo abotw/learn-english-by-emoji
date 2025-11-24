@@ -1,6 +1,6 @@
 # People & Appearance
 
-### 👶 Baby
+## 👶 Baby
 
 The face of a baby with a small tuft of hair on top of its head. Some platforms show the baby sucking on a pacifier, and some platforms show a single tooth in the baby’s open mouth. Android [previously displayed](https://emojipedia.org/google/android-5.0/baby/) this emoji as a swaddled baby.
 
@@ -10,7 +10,7 @@ See also [👼 Baby Angel](https://emojipedia.org/baby-angel/).
 
 *Baby* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 🧒 Child
+## 🧒 Child
 
 A child with no gender specified. This emoji may be used to talk about children in a gender-inclusive way.
 
@@ -18,7 +18,7 @@ Variants include [👧 Girl](https://emojipedia.org/girl/) and [👦 Boy](https:
 
 *Child* was approved as part of [Unicode 10.0](https://emojipedia.org/unicode-10.0) in 2017 and added to [Emoji 5.0](https://emojipedia.org/emoji-5.0) in 2017.
 
-### 👦 Boy
+## 👦 Boy
 
 The face of a boy, smiling.
 
@@ -28,7 +28,7 @@ Variants include [👦 Child](https://emojipedia.org/child/) and [👧 Girl](htt
 
 *Boy* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 👧 Girl
+## 👧 Girl
 
 The face of a girl, smiling. Most platforms feature the girl's hair in pigtails.
 
@@ -36,7 +36,7 @@ Variants include [👦 Child](https://emojipedia.org/child/) and [👦 Boy](http
 
 *Girl* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 🧑 Person
+## 🧑 Person
 
 An adult with no gender specified. This emoji may be used to talk about adults in a gender-inclusive way.
 
@@ -44,7 +44,7 @@ Variants include [👩 Woman](https://emojipedia.org/woman/) and [👨 Man](http
 
 *Person* was approved as part of [Unicode 10.0](https://emojipedia.org/unicode-10.0) in 2017 and added to [Emoji 5.0](https://emojipedia.org/emoji-5.0) in 2017.
 
-### 👱 Person: Blond Hair
+## 👱 Person: Blond Hair
 
 A person with blond hair. This emoji maintains blond hair no matter which [skin tone](https://emojipedia.org/emoji-modifier-sequence/) is chosen. This emoji may be used to talk about blonds in a gender-inclusive way.
 
@@ -54,13 +54,13 @@ Variants include [👱‍♀️ Woman with Blond Hair](https://emojipedia.org/wo
 
 *Person: Blond Hair* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 under the name "Person with Blond Hair" and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 👨 Man
+## 👨 Man
 
 The male version of [🧑 Person](https://emojipedia.org/person/).
 
 *Man* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 🧔 Person: Beard
+## 🧔 Person: Beard
 
 A person with a beard.
 
@@ -70,7 +70,7 @@ Variants include [🧔‍♂️ Man with a Beard](https://emojipedia.org/man-bea
 
 *Person: Beard* was approved as part of [Unicode 10.0](https://emojipedia.org/unicode-10.0) in 2017 under the name "Bearded Person" and added to [Emoji 5.0](https://emojipedia.org/emoji-5.0) in 2017.
 
-### 🧔‍♂️ Man: Beard
+## 🧔‍♂️ Man: Beard
 
 A man shown with long hair and a beard.
 
@@ -80,7 +80,7 @@ The Man: Beard emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-sequen
 
 *Man: Beard* was added to [Emoji 13.1](https://emojipedia.org/emoji-13.1) in 2020.
 
-### 🧔‍♀️ Woman: Beard
+## 🧔‍♀️ Woman: Beard
 
 A woman shown with long hair and a beard.
 
@@ -88,7 +88,7 @@ The Woman: Beard emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-sequ
 
 *Woman: Beard* was added to [Emoji 13.1](https://emojipedia.org/emoji-13.1) in 2020.
 
-### 👨‍🦰 Man: Red Hair
+## 👨‍🦰 Man: Red Hair
 
 The male version of [🧑‍🦰 Person with Red Hair](https://emojipedia.org/person-red-hair/).
 
@@ -96,7 +96,7 @@ The Man: Red Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-seq
 
 *Man: Red Hair* was added to [Emoji 11.0](https://emojipedia.org/emoji-11.0) in 2018.
 
-### 👨‍🦱 Man: Curly Hair
+## 👨‍🦱 Man: Curly Hair
 
 The male version of [🧑‍🦱 Person with Curly Hair](https://emojipedia.org/person-curly-hair/).
 
@@ -104,7 +104,7 @@ The Man: Curly Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-s
 
 *Man: Curly Hair* was added to [Emoji 11.0](https://emojipedia.org/emoji-11.0) in 2018.
 
-### 👨‍🦳 Man: White Hair
+## 👨‍🦳 Man: White Hair
 
 The male version of [🧑‍🦳 Person with White Hair](https://emojipedia.org/person-white-hair/).
 
@@ -112,7 +112,7 @@ The Man: White Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-s
 
 *Man: White Hair* was added to [Emoji 11.0](https://emojipedia.org/emoji-11.0) in 2018.
 
-### 👨‍🦲 Man: Bald
+## 👨‍🦲 Man: Bald
 
 The male version of [🧑‍🦲 Bald Person](https://emojipedia.org/person-bald/).
 
@@ -120,13 +120,13 @@ The Man: Bald emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-sequenc
 
 *Man: Bald* was added to [Emoji 11.0](https://emojipedia.org/emoji-11.0) in 2018.
 
-### 👩 Woman
+## 👩 Woman
 
 The female version of [🧑 Person](https://emojipedia.org/person/).
 
 *Woman* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 👩‍🦰 Woman: Red Hair
+## 👩‍🦰 Woman: Red Hair
 
 The female version of [🧑‍🦰 Person with Red Hair](https://emojipedia.org/person-red-hair/).
 
@@ -134,7 +134,7 @@ The Woman: Red Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-s
 
 *Woman: Red Hair* was added to [Emoji 11.0](https://emojipedia.org/emoji-11.0) in 2018.
 
-### 🧑‍🦰 Person: Red Hair
+## 🧑‍🦰 Person: Red Hair
 
 A person with red hair. This emoji maintains red hair no matter which skin tone is chosen. This emoji may be used to talk about redheads in a gender-inclusive way.
 
@@ -144,7 +144,7 @@ The Person: Red Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-
 
 *Person: Red Hair* was added to [Emoji 12.1](https://emojipedia.org/emoji-12.1) in 2019.
 
-### 👩‍🦱 Woman: Curly Hair
+## 👩‍🦱 Woman: Curly Hair
 
 The female version of [🧑‍🦱 Person with Curly Hair](https://emojipedia.org/person-curly-hair/).
 
@@ -152,7 +152,7 @@ The Woman: Curly Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj
 
 *Woman: Curly Hair* was added to [Emoji 11.0](https://emojipedia.org/emoji-11.0) in 2018.
 
-### 🧑‍🦱 Person: Curly Hair
+## 🧑‍🦱 Person: Curly Hair
 
 A person with curly hair. This emoji may be used to talk about people with curly hair in a gender-inclusive way.
 
@@ -162,7 +162,7 @@ The Person: Curly Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zw
 
 *Person: Curly Hair* was added to [Emoji 12.1](https://emojipedia.org/emoji-12.1) in 2019.
 
-### 👩‍🦳 Woman: White Hair
+## 👩‍🦳 Woman: White Hair
 
 The female version of [🧑‍🦳 Person with White Hair](https://emojipedia.org/person-white-hair/).
 
@@ -170,7 +170,7 @@ The Woman: White Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj
 
 *Woman: White Hair* was added to [Emoji 11.0](https://emojipedia.org/emoji-11.0) in 2018.
 
-### 🧑‍🦳 Person: White Hair
+## 🧑‍🦳 Person: White Hair
 
 A person with white hair. This emoji maintains white hair no matter which skin tone is chosen. This emoji may be used to talk about people with white hair in a gender-inclusive way.
 
@@ -180,7 +180,7 @@ The Person: White Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zw
 
 *Person: White Hair* was added to [Emoji 12.1](https://emojipedia.org/emoji-12.1) in 2019.
 
-### 🧑‍🦲 Person: Bald
+## 🧑‍🦲 Person: Bald
 
 A person with a bald head. Can be used to represent a bald person or a person with a shaved head. May also be used to represent a person experiencing hair loss from chemotherapy, alopecia, or other medical treatments or conditions. 
 
@@ -192,7 +192,7 @@ The Person: Bald emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-sequ
 
 *Person: Bald* was added to [Emoji 12.1](https://emojipedia.org/emoji-12.1) in 2019.
 
-### 👱‍♀️ Woman: Blond Hair
+## 👱‍♀️ Woman: Blond Hair
 
 The female version of [👱 Person with Blond Hair](https://emojipedia.org/person-blond-hair/).
 
@@ -200,7 +200,7 @@ The Woman: Blond Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj
 
 *Woman: Blond Hair* was added to [Emoji 4.0](https://emojipedia.org/emoji-4.0) in 2016.
 
-### 👱‍♂️ Man: Blond Hair
+## 👱‍♂️ Man: Blond Hair
 
 The male version of [👱 Person with Blond Hair](https://emojipedia.org/person-blond-hair/).
 
@@ -208,7 +208,7 @@ The Man: Blond Hair emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-s
 
 *Man: Blond Hair* was added to [Emoji 4.0](https://emojipedia.org/emoji-4.0) in 2016.
 
-### 🧓 Older Person
+## 🧓 Older Person
 
 An older adult with no gender specified. This emoji may be used to talk about older adults in a gender-inclusive way.
 
@@ -216,21 +216,19 @@ Variants include [👴 Older Man](https://emojipedia.org/old-man/) or [👵 Olde
 
 *Older Person* was approved as part of [Unicode 10.0](https://emojipedia.org/unicode-10.0) in 2017 under the name "Older Adult" and added to [Emoji 5.0](https://emojipedia.org/emoji-5.0) in 2017.
 
-### 👴 Old Man
+## 👴 Old Man
 
 An elderly man gray (grey) hair, and visible wrinkles. Balding in many versions of this artwork, such as Apple and Microsoft designs.
 
 *Old Man* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 under the name "Older Man" and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 👵 Old Woman
+## 👵 Old Woman
 
 An elderly woman with gray (grey) hair, and visible wrinkles. Wears glasses on some platforms.
 
 *Old Woman* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 under the name "Older Woman" and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
----
-
-### 🧏 Deaf Person
+## 🧏 Deaf Person
 
 A person gesturing with their index finger between ear and mouth, used as a *deaf sign* in American Sign Language (ASL) and a number of other global sign languages.
 
@@ -240,7 +238,7 @@ See also [🦻 Ear With Hearing Aid](https://emojipedia.org/ear-with-hearing-aid
 
 *Deaf Person* was approved as part of [Unicode 12.0](https://emojipedia.org/unicode-12.0) in 2019 and added to [Emoji 12.0](https://emojipedia.org/emoji-12.0) in 2019.
 
-### 🧏‍♂️ Deaf Man
+## 🧏‍♂️ Deaf Man
 
 A man gesturing with their index finger between ear and mouth, used as a *deaf sign* in American Sign Language (ASL) and a number of other global sign languages.
 
@@ -250,7 +248,7 @@ The Deaf Man emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-sequence
 
 *Deaf Man* was added to [Emoji 12.0](https://emojipedia.org/emoji-12.0) in 2019.
 
-### 🧏‍♀️ Deaf Woman
+## 🧏‍♀️ Deaf Woman
 
 A woman gesturing with their index finger between ear and mouth, used as a *deaf sign* in American Sign Language (ASL) and a number of other global sign languages.
 
@@ -262,7 +260,7 @@ The Deaf Woman emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zwj-sequen
 
 ---
 
-### 👳 Person Wearing Turban
+## 👳 Person Wearing Turban
 
 A man wearing a [turban](https://en.wikipedia.org/wiki/Turban); a form of customary headwear worn by Sikhs or Muslims.
 
@@ -270,7 +268,7 @@ This emoji predates the inclusion of emojis within Unicode. It was first added t
 
 *Person Wearing Turban* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 under the name "Man with Turban" and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 👳‍♂️ Man Wearing Turban
+## 👳‍♂️ Man Wearing Turban
 
 The male version of the [👳‍♀️ Woman Wearing Turban](https://emojipedia.org/woman-wearing-turban/) emoji.
 
@@ -278,7 +276,7 @@ The Man Wearing Turban emoji is a [ZWJ sequence](https://emojipedia.org/emoji-zw
 
 *Man Wearing Turban* was added to [Emoji 4.0](https://emojipedia.org/emoji-4.0) in 2016.
 
-### 👳‍♀️ Woman Wearing Turban
+## 👳‍♀️ Woman Wearing Turban
 
 The female version of the [👳 Man Wearing Turban](https://emojipedia.org/man-wearing-turban/) emoji.
 
@@ -288,7 +286,7 @@ The Woman Wearing Turban emoji is a [ZWJ sequence](https://emojipedia.org/emoji-
 
 ---
 
-### 👲 Person with Skullcap
+## 👲 Person with Skullcap
 
 A person wearing a [guapi mao](https://en.wikipedia.org/wiki/Guapi_mao) (瓜皮帽), a type of Chinese hat. Sometimes referred to as a [skullcap](https://en.wikipedia.org/wiki/Skullcap).
 
@@ -298,13 +296,13 @@ This emoji predates the inclusion of emojis within [Unicode](https://emojipedia.
 
 *Person with Skullcap* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 under the name "Man with Gua Pi Mao" and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 🧕 Woman with Headscarf
+## 🧕 Woman with Headscarf
 
 A person (generally depicted as a woman) wearing a headscarf. While the type of  headscarf is not specified, this is most commonly displayed as a woman wearing a hijab.
 
 *Woman with Headscarf* was approved as part of [Unicode 10.0](https://emojipedia.org/unicode-10.0) in 2017 under the name "Person with Headscarf" and added to [Emoji 5.0](https://emojipedia.org/emoji-5.0) in 2017.
 
-### 🤰 Pregnant Woman
+## 🤰 Pregnant Woman
 
 A pregnant woman holding her round stomach. Sometimes used in jest to represent feeling too full after overeating, as in a "food baby."
 
@@ -314,7 +312,7 @@ Twelve modified versions of Apple's pregnant woman emoji design are featured in 
 
 *Pregnant Woman* was approved as part of [Unicode 9.0](https://emojipedia.org/unicode-9.0) in 2016 and added to [Emoji 3.0](https://emojipedia.org/emoji-3.0) in 2016.
 
-### 🫃 Pregnant Man
+## 🫃 Pregnant Man
 
 A pregnant man holding his round stomach. Sometimes used in jest to represent feeling too full after overeating, as in a "food baby."
 
@@ -324,7 +322,7 @@ This emoji was approved to make the emoji keyboard more [consistent and gender i
 
 *Pregnant Man* was approved as part of [Unicode 14.0](https://emojipedia.org/unicode-14.0) in 2021 and added to [Emoji 14.0](https://emojipedia.org/emoji-14.0) in 2021.
 
-### 🫄 Pregnant Person
+## 🫄 Pregnant Person
 
 A pregnant person holding their round stomach. Sometimes used in jest to represent feeling too full after overeating, as in a "food baby."
 
@@ -334,7 +332,7 @@ This emoji was approved to make the emoji keyboard more [consistent and gender i
 
 *Pregnant Person* was approved as part of [Unicode 14.0](https://emojipedia.org/unicode-14.0) in 2021 and added to [Emoji 14.0](https://emojipedia.org/emoji-14.0) in 2021.
 
-### 👼 Baby Angel
+## 👼 Baby Angel
 
 A baby with a halo and wings. Can represent a sweet baby, a biblical cherub, a mythological cupid, a decorative putto, or an angel as a supernatural being in general. This emoji can be used earnestly or in a tongue-in-cheek way to talk about goodness or innocence.
 
@@ -346,25 +344,25 @@ See also [👶 Baby](https://emojipedia.org/baby/).
 
 ---
 
-### 🗣️ Speaking Head
+## 🗣️ Speaking Head
 
 The silhouette of a person speaking. Faces left-to-right, with lines demonstrating speech being expelled. Sometimes used in the context of shouting or [mansplaining](https://en.wikipedia.org/wiki/Mansplaining).
 
 *Speaking Head* was approved as part of [Unicode 7.0](https://emojipedia.org/unicode-7.0) in 2014 under the name "Speaking Head in Silhouette" and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 👤 Bust in Silhouette
+## 👤 Bust in Silhouette
 
 Generic profile of one person. Often used in interface design to represent a user.
 
 *Bust in Silhouette* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 👥 Busts in Silhouette
+## 👥 Busts in Silhouette
 
 Generic profile of two people. Often used in interface design to represent users.
 
 *Busts in Silhouette* was approved as part of [Unicode 6.0](https://emojipedia.org/unicode-6.0) in 2010 and added to [Emoji 1.0](https://emojipedia.org/emoji-1.0) in 2015.
 
-### 🫂 People Hugging
+## 🫂 People Hugging
 
 Two people hugging, shown as faceless blue or grey forms on most platforms. Details of each person are not distinct and thus no options are available to customize the gender or skin tone of either individual.
 
@@ -376,25 +374,25 @@ Has been known to be confused for a [🎥 Movie Camera ](https://emojipedia.org/
 
 ---
 
-### 🦰 Red Hair
+## 🦰 Red Hair
 
 An emoji component displaying a person’s red hair. Intended for use within emoji sequences.
 
 *Red Hair* was approved as part of [Unicode 11.0](https://emojipedia.org/unicode-11.0) in 2018 under the name "Emoji Component Red Hair" and added to [Emoji 11.0](https://emojipedia.org/emoji-11.0) in 2018.
 
-### 🦱 Curly Hair
+## 🦱 Curly Hair
 
 An emoji component displaying a person's curly hair. Intended for use within emoji sequences.
 
 *Curly Hair* was approved as part of [Unicode 11.0](https://emojipedia.org/unicode-11.0) in 2018 under the name "Emoji Component Curly Hair" and added to [Emoji 11.0](https://emojipedia.org/emoji-11.0) in 2018.
 
-### 🦲 Bald
+## 🦲 Bald
 
 An emoji component displaying a person's bald head. Intended for use within emoji sequences.
 
 *Bald* was approved as part of [Unicode 11.0](https://emojipedia.org/unicode-11.0) in 2018 under the name "Emoji Component Bald" and added to [Emoji 11.0](https://emojipedia.org/emoji-11.0) in 2018.
 
-### 🦳 White Hair
+## 🦳 White Hair
 
 An emoji component displaying a person's white hair. Intended for use within emoji sequences.
 
